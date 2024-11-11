@@ -26,3 +26,10 @@ Add `SwiftyCalendarView` to your project through Swift Package Manager:
 1. In Xcode, go to **File > Add Packages**.
 2. Paste the repository URL: `https://github.com/LahiruChathuranga/SwiftyCalendarView.git`
 3. Select the latest version and add it to your project.
+
+### CocoaPods
+
+Add the following line to your `Podfile`:
+
+```ruby
+pod 'SwiftyCalendarView'
