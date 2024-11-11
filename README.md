@@ -2,7 +2,7 @@
 
 `SwiftyCalendarView` is a customizable SwiftUI calendar view for iOS, designed to integrate easily into your project. This lightweight library provides a flexible way to display and select dates with custom colors, making it ideal for apps that need a simple date picker in a stylish, user-friendly way.
 
-![Calendar Animation]([https://example.com/gif1.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnc0bm9nYnlvaGluMW9yM3M4ZW03NTJ1bjI2dXRpemoxMmdmZ3prcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dL6J65N0ub3OTMmhsA/giphy.gif)) <!-- Placeholder GIF URL - replace with actual GIF links -->
+![Calendar Animation](https://example.com/gif1.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnc0bm9nYnlvaGluMW9yM3M4ZW03NTJ1bjI2dXRpemoxMmdmZ3prcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dL6J65N0ub3OTMmhsA/giphy.gif) <!-- Placeholder GIF URL - replace with actual GIF links -->
 
 ## Features
 
